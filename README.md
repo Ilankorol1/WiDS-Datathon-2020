@@ -37,6 +37,8 @@ Next, we defined six different machine learning models:
 6. Neural Network
 
 ### For the best resulrts we used different weights for each Model:
+![image](https://github.com/Ilankorol1/WiDS-Datathon-2020/assets/103121260/49ae0ff0-7787-45b9-a78e-d6f023aa76c1)
+![image](https://github.com/Ilankorol1/WiDS-Datathon-2020/assets/103121260/f6f650fe-6e89-49eb-aab6-13e8b1d7a0f9)
 ![image](https://github.com/Ilankorol1/WiDS-Datathon-2020/assets/103121260/0b65c976-1167-4569-9064-c8804e1faf15)
 ![image](https://github.com/Ilankorol1/WiDS-Datathon-2020/assets/103121260/2b6368a7-c94a-4765-ae29-346ff5830f88)
 
